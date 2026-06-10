@@ -126,13 +126,21 @@ Sales trends, KPIs, and performance tracking.
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/yash-kumar-patel?utm_source=share_via&utm_content=profile&utm_medium=member_android
+<p align="center">
+<a href="https://www.linkedin.com/in/yash-kumar-patel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-GitHub: https://github.com/yashintelligence
+<a href="https://github.com/yashintelligence">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Email: yashakshar31@gmail.com
+<a href="mailto:yashakshar31@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -141,7 +149,10 @@ Email: yashakshar31@gmail.com
 «"Consistency compounds. Every line of code written today becomes expertise tomorrow."»
 
 ---
+---
 
 ⭐ Thanks for visiting my profile!
 
-Jay Swaminarayan 🙏
+🚀 Always learning, building, and growing.
+
+🙏 Jay Swaminarayan
