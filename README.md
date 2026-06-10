@@ -21,31 +21,31 @@ To build impactful AI solutions that solve real-world problems.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
-Data Science
+### Data Science
 
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-"NumPy" (https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-Visualization
+### Visualization
 
-"Power BI" (https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-"Tableau" (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-Web & Deployment
+### Web & Deployment
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-"Streamlit" (https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
@@ -97,11 +97,11 @@ Sales trends, KPIs, and performance tracking.
 
 🌐 Connect With Me
 
-LinkedIn: www.linkedin.com/in/yash-patel-data-science
+LinkedIn: https://www.linkedin.com/in/yash-kumar-patel?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 GitHub: https://github.com/yashintelligence
 
-Email: your-email@example.com
+Email: yashakshar31@gmail.com
 
 ---
 
