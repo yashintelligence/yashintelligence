@@ -101,19 +101,6 @@ Sales trends, KPIs, and performance tracking.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashintelligence&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashintelligence&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashintelligence&theme=tokyonight"/>
-</p>
-
----
-
 🏆 Achievements
 
 ✅ Built Multiple Data Analytics Dashboards
@@ -146,7 +133,7 @@ Sales trends, KPIs, and performance tracking.
 
 💭 Quote
 
-«"Consistency compounds. Every line of code written today becomes expertise tomorrow."»
+"In The Joy Of Others Lies Our Own - HH Pramukh Swami Maharaj."
 
 ---
 ---
