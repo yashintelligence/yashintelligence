@@ -21,59 +21,21 @@ To build impactful AI solutions that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
-- Artificial Intelligence (AI)
-- Machine Learning
-- Deep Learning
-- Artificial Neural Networks
-- Scikit-Learn
-- Statistics
-- Prompt Engineering
+💻 C • C++ • Java • Python • SQL
 
-### 📊 Data Science & Analytics
-- Data Science
-- Data Analysis
-- Data Visualization
-- Business Intelligence (BI)
-- Microsoft Power BI
-- Tableau
-- Microsoft Excel
-- Excel Dashboards
-- Seaborn
-- Plotly
-- Statsmodels
+🌐 HTML • CSS • JavaScript • Bootstrap
 
-### 💻 Programming Languages
-- Python
-- C
-- C++
-- C#
+🗄️ MySQL • PostgreSQL
 
-### 🗄 Databases
-- SQL
-- Relational Databases
-- Oracle Database
-- Firebase
+📊 Pandas • NumPy • Matplotlib • Seaborn • Plotly • Statsmodels
 
-### 🚀 Development Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Streamlit
+🤖 Machine Learning • Scikit-Learn • TensorFlow • Keras
 
-### 🤝 Professional Skills
-- Communication
-- Presentation Skills
-- Public Speaking
-- Leadership
+🚀 Flask • Django • Git • GitHub • Jupyter Notebook • VS Code
 
-### 🧠 AI Tools
-- Claude
-- ChatGPT
-- GitHub Copilot
+📈 Data Analysis • EDA • Feature Engineering • Statistical Analysis • Predictive Modeling
 
 ---
 
